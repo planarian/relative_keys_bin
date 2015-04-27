@@ -15,4 +15,8 @@ The source is also [available](http://www.github.com/planarian/relative_keys).
 
 Relative Keys is subject to the [MIT license](http://opensource.org/licenses/MIT). Qt, Fluidsynth, and GTK are under [LGPL](https://www.gnu.org/copyleft/lesser.html), and MinGW is under [GPL](https://gnu.org/licenses/gpl.html). 
 
+## Contact
+
+If you have any question you can reach me at http://www.jay-davis.net
+
 
