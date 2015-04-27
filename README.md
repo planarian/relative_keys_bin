@@ -17,6 +17,6 @@ Relative Keys is subject to the [MIT license](http://opensource.org/licenses/MIT
 
 ## Contact
 
-If you have any question you can reach me at http://www.jay-davis.net
+If you have any questions you can find me at http://www.jay-davis.net
 
 
